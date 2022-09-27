@@ -1,0 +1,201 @@
+.contenedorN{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 183px;
+    
+    position: absolute;
+    width: 990.13px;
+    height: 205px;
+    left: 40px;
+    top: 250px;
+    
+
+}
+
+.Noticia1{
+width: 230px;
+height: 215px;
+position: absolute;
+
+background: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)),url(../img/Fifa23.png);
+border-radius: 16px;
+background-position: top 0px left -80px;
+background-size: cover;
+}
+
+.Noticia2{
+position: absolute;
+width: 230px;
+height: 215px;
+border-radius: 16px;
+left: 420px;
+
+background: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)), url(../img/F1Manager.jpg);
+border-radius: 16px;
+background-size: cover;
+
+}
+.Noticia3{
+position: absolute;
+width: 230px;
+height: 215px;
+left: 840px;
+
+background-image: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)),url(../img/Fortnite.jpg);
+border-radius: 16px;
+background-size: cover;
+background-position: top -2px left -40px;
+}
+
+.contenedorN2{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 183px;
+position: absolute;
+
+width: 990.13px;
+height: 205px;
+left: 209px;
+top: 697px;
+
+}
+
+.Noticia4{
+
+width: 230px;
+height: 215px;
+position: absolute;
+top: 550px;
+left: 40px;
+
+background: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)), url(../img/LilNas.jpg);
+border-radius: 16px;
+background-size: cover;
+background-position: top 0px left -150px;
+}
+
+.Noticia5{
+width: 230px;
+height: 215px;
+position: absolute;
+top: 550px;
+left: 460px;
+
+background: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)), url(../img/NierAutomata.jpg);
+border-radius: 16px;
+background-size: cover;
+background-position: top 0px left -80px;
+}
+
+.Noticia6{
+    width: 230px;
+    height: 215px;
+    position: absolute;
+    top: 550px;
+    left: 880px;
+    
+    background: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)), url(../img/Cyberpunk-2077-1-1.jpg);
+    border-radius: 16px;
+    background-size: cover;
+    background-position: top 0px left -65px;
+    }
+
+    .Noticia1 h3{
+position: relative;
+width: 191px;
+height: 53px;
+left: 10px;
+top: 120px;
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FCF8F8;
+    }
+
+    .Noticia2 h3{
+        position: relative;
+width: 191px;
+height: 53px;
+left: 10px;
+top: 120px;
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FCF8F8;
+
+    }
+    .Noticia3 h3{
+        position: relative;
+width: 191px;
+height: 53px;
+left: 10px;
+top: 120px;
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FCF8F8;
+    }
+
+.Noticia4 h3{
+    position: relative;
+    width: 191px;
+    height: 53px;
+    left: 10px;
+    top: 120px;
+    
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    
+    color: #FCF8F8;
+}
+
+.Noticia5 h3{
+    position: relative;
+width: 191px;
+height: 53px;
+left: 10px;
+top: 120px;
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FCF8F8;
+}
+
+.Noticia6 h3{
+position: relative;
+width: 191px;
+height: 53px;
+left: 10px;
+top: 120px;
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+
+color: #FCF8F8;
+}

@@ -1,0 +1,58 @@
+.menu{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 226px;
+height: 28px;
+left: 210px;
+top: 30px;
+
+}
+
+.Noticias{
+width: 52px;
+height: 28px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+}
+
+.Redes{
+    width: 170px;
+    height: 28px;
+    
+    writing-mode: horizontal-tb;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+    
+}
+
+.Logo{
+position: relative;
+width: 80px;
+height: 80px;
+left: -180px;
+top: -10px;
+border-radius: 1000px;
+}

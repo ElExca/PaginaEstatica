@@ -1,0 +1,28 @@
+.redesS{
+    position: absolute;
+    width: 228px;
+    height: 56px;
+    left: 226px;
+    top: 50px;
+    }
+
+ .redesS .Facebook{
+   position: relative;
+    width: 39px;
+
+ }   
+
+ .redesS .Instagram{
+   position: relative;
+   width: 50px;
+   top: 8px;
+   margin-left: 10px;
+ }
+
+ .redesS .Twitter{
+   position: relative;
+width: 56px;
+height: 56px;
+left: 5px;
+top: 9px;
+ }

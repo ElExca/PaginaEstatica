@@ -1,0 +1,10 @@
+header{
+position: relative;
+width: 1480px;
+height: 300px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, rgba(11, 10, 10, 0.2), rgba(11, 10, 10, 0.2)), url(../img/gamer.jpg);
+background-size: cover;
+}
