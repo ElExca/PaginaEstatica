@@ -34,6 +34,7 @@ left: 420px;
 
 background: linear-gradient(0deg, rgba(40, 38, 38, 0.2), rgba(40, 38, 38, 0.2)), url(../img/F1Manager.jpg);
 border-radius: 16px;
+background-position: top 0px left -80px ;
 background-size: cover;
 
 }

@@ -16,8 +16,10 @@ top: 30px;
 .Noticias{
 width: 52px;
 height: 28px;
+top: 20px;
+left: -80px;
 
-
+position: relative;
 font-style: normal;
 font-weight: 400;
 font-size: 24px;
@@ -30,8 +32,11 @@ color: #FFFFFF;
 .Redes{
     width: 170px;
     height: 28px;
+    top: 20px;
+    left: -50px;
     
     writing-mode: horizontal-tb;
+    position: relative;
     
     font-style: normal;
     font-weight: 400;

@@ -1,10 +1,10 @@
-import Main from "../components/Main";
+import User from "../components/User";
 import Layaout from "./Layout";
 
 function App() {
     return ( 
         <Layaout>
-         
+         <User></User>
         </Layaout>
      );
 }

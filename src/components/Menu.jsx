@@ -4,8 +4,8 @@ function Menu() {
     return ( 
     <div className="menu">
             <img src={Logo} alt="" className='Logo'/>        
-            <h2 className='Noticias'>Inicio</h2>
-            <h2 className='Redes'>Redes Sociales</h2>
+            <a className='Noticias'>Inicio</a>
+            <a className='Redes'>Redes Sociales</a>
     </div>
 
      );
